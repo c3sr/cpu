@@ -20,7 +20,7 @@ import (
 	"fmt"
 
 	cadvisorapi "github.com/google/cadvisor/info/v1"
-	"github.com/rai-project/cpu/cpuset"
+	"github.com/c3sr/cpu/cpuset"
 )
 
 // CPUDetails is a map from CPU ID to Core ID and Socket ID.
