@@ -9,7 +9,7 @@ os: linux
 dist: xenial
 before_install:
   - sudo apt-get update
-  - sudo apt-get -y install hwloc libnuma-dev
+  - sudo apt-get -y install libhwloc-dev libnuma-dev
   - curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
 install:
   - dep ensure -v -vendor-only
