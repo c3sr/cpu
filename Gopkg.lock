@@ -58,36 +58,36 @@
   version = "v0.0.3"
 
 [[projects]]
-  branch = "master"
   digest = "0:"
   name = "github.com/c3sr/config"
   packages = ["."]
   pruneopts = "UT"
-  revision = "e9d07ff805c35518081968c3cdb61e2a452cacff"
+  revision = "65ee284dba7b2246b139da2f408675c920e363dc"
+  version = "v0.0.1"
 
 [[projects]]
-  branch = "master"
   digest = "0:"
   name = "github.com/c3sr/logger"
   packages = ["."]
   pruneopts = "UT"
-  revision = "3a1b4f2fe0a8cff889e1ee8fbda6967bd9c0d550"
+  revision = "3044e48cac89b90999031402a69203bd43560d4c"
+  version = "v0.0.1"
 
 [[projects]]
-  branch = "master"
   digest = "0:"
   name = "github.com/c3sr/utils"
   packages = ["."]
   pruneopts = "UT"
-  revision = "1131f94737fa162c7abd799d49e0e61d28827bd7"
+  revision = "0a5cfc0b7876ff195155e42edea01fd21f63c752"
+  version = "v0.0.1"
 
 [[projects]]
-  branch = "master"
   digest = "0:"
   name = "github.com/c3sr/vipertags"
   packages = ["."]
   pruneopts = "UT"
-  revision = "c54404b591155101716768833b5eee64aca9a3cd"
+  revision = "fae3cc10fd16cda495d8be4cf857e1016099f737"
+  version = "v0.0.1"
 
 [[projects]]
   digest = "1:f438d91be142877c3ad83157992c91de787ddfbddcc2a7da1ef6ef61606cadc4"
