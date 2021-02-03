@@ -62,32 +62,32 @@
   name = "github.com/c3sr/config"
   packages = ["."]
   pruneopts = "UT"
-  revision = "65ee284dba7b2246b139da2f408675c920e363dc"
-  version = "v0.0.1"
+  revision = "35ed8e2450bf72580413486a801a469faeb04189"
+  version = "v0.1.0"
 
 [[projects]]
   digest = "0:"
   name = "github.com/c3sr/logger"
   packages = ["."]
   pruneopts = "UT"
-  revision = "3044e48cac89b90999031402a69203bd43560d4c"
-  version = "v0.0.1"
+  revision = "159591d2749003f68b0dacfadf03ab90a18f66c1"
+  version = "v0.1.0"
 
 [[projects]]
   digest = "0:"
   name = "github.com/c3sr/utils"
   packages = ["."]
   pruneopts = "UT"
-  revision = "0a5cfc0b7876ff195155e42edea01fd21f63c752"
-  version = "v0.0.1"
+  revision = "8c94d0bf9baa1095effd041da69653e1103b68c7"
+  version = "v0.1.0"
 
 [[projects]]
   digest = "0:"
   name = "github.com/c3sr/vipertags"
   packages = ["."]
   pruneopts = "UT"
-  revision = "fae3cc10fd16cda495d8be4cf857e1016099f737"
-  version = "v0.0.1"
+  revision = "b8a9fd68c520fe07ffbf7f642b7e73eac2a0434f"
+  version = "v0.1.0"
 
 [[projects]]
   digest = "1:f438d91be142877c3ad83157992c91de787ddfbddcc2a7da1ef6ef61606cadc4"
